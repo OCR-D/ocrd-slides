@@ -1,6 +1,6 @@
 [submodule "Slides-2018-06-26"]
 	path = Slides-2018-06-26
-	url = https://github.com/kba/Slides-2018-06-26
+	url = https://github.com/OCR-D/Slides-2018-06-26
 [submodule "PhilTag-2018"]
 	path = PhilTag-2018
 	url = https://github.com/OCR-D/PhilTag-2018
@@ -16,3 +16,6 @@
 [submodule "DH-Kolloquium-2017"]
 	path = DH-Kolloquium-2017
 	url = https://github.com/OCR-D/DH-Kolloquium-2017
+[submodule "ocrd-2018-07-11"]
+	path = ocrd-2018-07-11
+	url = https://github.com/kba/ocrd-2018-07-11
