@@ -16,3 +16,9 @@
 [submodule "DH-Kolloquium-2017"]
 	path = DH-Kolloquium-2017
 	url = https://github.com/OCR-D/DH-Kolloquium-2017
+[submodule "2018-09-18"]
+	path = 2018-09-18
+	url = https://github.com/OCR-D/2018-09-18
+[submodule "2018-10-05-baltica"]
+	path = 2018-10-05-baltica
+	url = https://github.com/OCR-D/2018-10-05-baltica
