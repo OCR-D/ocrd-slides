@@ -19,6 +19,3 @@
 [submodule "2018-09-18"]
 	path = 2018-09-18
 	url = https://github.com/OCR-D/2018-09-18
-[submodule "ocrd-2018-07-11"]
-	path = ocrd-2018-07-11
-	url = https://github.com/kba/ocrd-2018-07-11
