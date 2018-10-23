@@ -22,3 +22,6 @@
 [submodule "2018-10-05-baltica"]
 	path = 2018-10-05-baltica
 	url = https://github.com/OCR-D/2018-10-05-baltica
+[submodule "ocrd-2018-07-11"]
+	path = ocrd-2018-07-11
+	url = https://github.com/kba/ocrd-2018-07-11
