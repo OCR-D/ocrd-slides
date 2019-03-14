@@ -19,3 +19,6 @@
 [submodule "2018-09-18"]
 	path = 2018-09-18
 	url = https://github.com/OCR-D/2018-09-18
+[submodule "2019-03-25-dhd/remark"]
+	path = 2019-03-25-dhd/remark
+	url = https://github.com/gnab/remark
