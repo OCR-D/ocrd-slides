@@ -30,3 +30,4 @@
 * [2019-03-25-dhd](http://kba.cloud/2019-03-25-dhd)
 * [2019-05-09-gt](https://kba.cloud/2019-05-09)
 * [2019-05-09-ocrd](https://www.slideshare.net/cneudecker/ocrd-an-endtoend-open-source-ocr-framework-for-historical-printed-documents)
+* [2019-06-14](https://docs.google.com/presentation/d/1d2FYGDWH65iahXobnWibDix0FlXtufA6xAyN5Z73qi0)
