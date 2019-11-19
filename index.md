@@ -25,10 +25,12 @@
 ## 2019
 
 * [2019-02-27-ocrd-dev-ws](https://kba.github.io/2019-02-27-ocrd-dev-ws)
-* [2019-03-18-bid2019-talk](https://docs.google.com/presentation/d/1afkvG3Qaw0vh1zYdY0Jga-uVrSTIff3NS_PZvLgMZIY)
+* [2019-03-18-bid2019-talk](https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16356)
 * [2019-03-18-bid2019-workshop](https://docs.google.com/presentation/d/10w6SAZ76Nm1p1Q0Q6FtDIwvrKAHrTLShSVgt4vBdozs/edit#slide=id.g52306a8c08_2_109)
 * [2019-03-25-dhd](http://kba.cloud/2019-03-25-dhd)
 * [2019-05-09-gt](https://kba.cloud/2019-05-09)
 * [2019-05-09-ocrd](https://www.slideshare.net/cneudecker/ocrd-an-endtoend-open-source-ocr-framework-for-historical-printed-documents)
 * [2019-06-14](https://docs.google.com/presentation/d/1d2FYGDWH65iahXobnWibDix0FlXtufA6xAyN5Z73qi0)
+* [2019-icdar](https://hackmd.io/@kba/SyiQKUCUH)
+* [Kurzpraesentation_OCR-D_2019-11/Kurzvorstellung OCR-D_Nov19.pptx](Kurzpräsentation OCR-D)
 * [2019-11-19](https://hackmd.io/@kba/S1peIVxhH)
