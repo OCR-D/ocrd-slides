@@ -22,3 +22,6 @@
 [submodule "2019-03-25-dhd/remark"]
 	path = 2019-03-25-dhd/remark
 	url = https://github.com/gnab/remark
+[submodule "2019-03-25-dhd"]
+	path = 2019-03-25-dhd
+	url = https://github.com/kba/2019-03-25-dhd
